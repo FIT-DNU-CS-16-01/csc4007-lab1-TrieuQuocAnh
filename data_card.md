@@ -7,7 +7,6 @@
 
 ### 1.1 Đối tượng Dự kiến (Các Bên Liên quan)
 Ai nên quan tâm đến tập dữ liệu này? (Liệt kê 2-5 nhóm)
-
 | Nhóm | Lợi ích Chính | Câu hỏi Họ Đặt Ra |
 |-------|---------------|--------------------|
 | **Sinh viên NLP** | Học phân loại tình cảm, đánh giá tiêu chuẩn | Dữ liệu có sạch không? Có vấn đề nhãn? Làm sao tránh rò rỉ? |

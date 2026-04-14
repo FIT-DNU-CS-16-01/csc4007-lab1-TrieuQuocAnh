@@ -1,7 +1,6 @@
 # Thanh Ghi Siêu Dữ liệu — Đã Xác minh / Ước tính / Cần Đo
 
 ## ✅ ĐÃ XÁC MINH (Được Đo trực tiếp & Xác nhận)
-
 ### Ảnh chụp Tập dữ liệu
 - **N (tổng hàng):** 50,000 ✅ [nguồn: datacard_stats.json]
 - **Phân bố nhãn:** {0: 25,000, 1: 25,000} ✅ [hoàn toàn cân bằng]

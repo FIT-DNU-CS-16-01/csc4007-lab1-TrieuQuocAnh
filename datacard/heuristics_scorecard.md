@@ -1,7 +1,6 @@
 # Phiếu Điểm Heuristics (Module 4) - Tự Đánh giá
 
 ## 🎯 TỰ CHẤM ĐIỂM PHIẾU THÔNG TIN DỮ LIỆU
-
 | Tiêu chí | Tự chấm | Giải thích |
 |----------|---------|-----------|
 | **Toàn diện** | **4/5** | ✅ Đầy đủ thông tin cơ bản, nhưng thiếu kết quả kiểm toán (GE, Cleanlab, bản sao) |
